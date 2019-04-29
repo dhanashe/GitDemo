@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52" started-at="2019-04-16T20:48:18Z" finished-at="2019-04-16T20:48:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52" started-at="2019-04-16T20:48:18Z" finished-at="2019-04-16T20:48:19Z">
+      <class name="mavendemoproject.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:mavendemoproject.SeleniumTest@50f8360d]" name="BrowserAutomation" duration-ms="1" started-at="2019-04-16T20:48:19Z" finished-at="2019-04-16T20:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementUI()[pri:0, instance:mavendemoproject.SeleniumTest@50f8360d]" name="ElementUI" duration-ms="0" started-at="2019-04-16T20:48:19Z" finished-at="2019-04-16T20:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementUI -->
+      </class> <!-- mavendemoproject.SeleniumTest -->
+      <class name="mavendemoproject.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:mavendemoproject.RESTAPITest@61dc03ce]" name="deleteTwitter" duration-ms="8" started-at="2019-04-16T20:48:19Z" finished-at="2019-04-16T20:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:mavendemoproject.RESTAPITest@61dc03ce]" name="postJira" duration-ms="0" started-at="2019-04-16T20:48:19Z" finished-at="2019-04-16T20:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- mavendemoproject.RESTAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
